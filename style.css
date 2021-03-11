@@ -1,6 +1,3 @@
-body{
-	background-color: #d2f8d2;
-}
 
 .type {
 	font-family: forma-djr-deck, sans-serif;
@@ -16,11 +13,7 @@ body{
 }
 
 .clear {
-	opacity: 0%;
-}
-
-.full {
-	opacity: 100%;
+	opacity: 50%;
 }
 
 
